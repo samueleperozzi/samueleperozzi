@@ -34,24 +34,27 @@ Tra i miei interessi scolastici principali ci sono:
 - Partecipo da qualche anno. Nel 2026, in particolare, ho imparato le basi del ***carving***, la più alta espressione dello sci
 
 
-### PCTO 🖥️
+### FSL 🖥️
 - Giugno 2025, attività lavorativa a Seregno, presso l'agenzia assicurativa FIT Bene Assicurazioni
 - Ho imparato molto di come funziona il mondo del lavoro e, nello specifico, il mondo delle assicurazioni
 - Allo stesso tempo, ho appreso le competenze base di HTML, che mi sarebbero servite a scrivere codici di test
 - Ho imparato a usare Cypress, il programma per eseguire test su un sito ed evidenziare eventuali errori nel codice e nelle risposte dei server
 - I miei programmi sono poi stati utilizzati dai colleghi anche dopo la mia permanenza in azienda
 
-<!--
-**samueleperozzi/samueleperozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Metodi di studio e problem solving 🤔
+Quando, specie nella scrittura di programmi informatici, c'è da affrontare un problema è fondamentale conoscere delle "tecniche base" del problem solving. Io agisco nel seguente modo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1) Leggere bene la consegna e individuare obiettivo principale ed eventuali obiettivi secondari.
+2) Dividere il problema in sottoquesiti. Impostare quindi achievement (o obiettivi) da conseguire per ogni sottoproblema
+3) Consultare la documentazione
+4) Unire il tutto
+
+C'è da evidenziare che la **programmazione a oggetti** aiuta molto e padroneggiarla significa risparmiare tonnellate di tempo.
+
+Infine, di norma lavoro da solo, ma in un progetto collettivo è importante assegnare a ogni componente un sottoquesito da risolvere, per poi andare ad unire il tutto.
+
+
+
+
+
