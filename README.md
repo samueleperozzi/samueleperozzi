@@ -1,4 +1,22 @@
-## Hi there 👋
+# Ciao
+
+Mi chiamo **Samuele Perozzi**, frequento la classe **5°CLS** dell'ITCG *Achille Mapelli*.
+
+Tra i miei interessi scolastici principali ci sono:
+- Informatica, su cui ho basato il mio *PCTO*
+- Matematica
+- Fisica
+- Storia, specie per il programma di quinta
+
+
+
+## Competenze infomratiche
+
+| Ambito | Strumenti | Livello |
+| ---    | :----     | :----:  |
+| Linguaggio Markdown| Colab, Github | Intermedio 🟡|
+| 
+
 
 <!--
 **samueleperozzi/samueleperozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
