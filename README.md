@@ -53,8 +53,12 @@ Quando, specie nella scrittura di programmi informatici, c'è da affrontare un p
 C'è da evidenziare che la **programmazione a oggetti** aiuta molto e padroneggiarla significa risparmiare tonnellate di tempo.
 
 Infine, di norma lavoro da solo, ma in un progetto collettivo è importante assegnare a ogni componente un sottoquesito da risolvere, per poi andare ad unire il tutto.
+Sotto sono riportate le differenze tra i lavori individuali e quelli di gruppo
 
-
-
-
+| Ambito | Individuale | Collettivo |
+| ---    | :----     | :----:  |
+|Richiede meno tempo | ❌ | ✅ |
+| Richiede meno stress | ❌ | ✅ |
+| Da' più soddisfazione | ✅ | ❌ |
+| Implementa soft skills e cooperative working | ❌ | ✅ |
 
