@@ -62,3 +62,11 @@ Sotto sono riportate le differenze tra i lavori individuali e quelli di gruppo
 | Da' più soddisfazione | ✅ | ❌ |
 | Implementa soft skills e cooperative working | ❌ | ✅ |
 
+
+
+
+## Obiettivi futuri 💭
+
+- Vorrei studiare ***Infomratica*** all'Università.
+- Vorrei assicurarmi un ottimo posto di lavoro presso banche/assicurazioni senza la necessità di cambiare Paese o città.
+
